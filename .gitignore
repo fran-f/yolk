@@ -1,0 +1,5 @@
+# Development files
+/.phpunit.result.cache
+
+# Composer packages
+/vendor
