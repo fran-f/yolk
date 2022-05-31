@@ -2,7 +2,7 @@
     "name": "fran-f/yolk",
     "description": "Yolk is a toy framework for small projects.",
     "type": "library",
-    "version": "0.1.0",
+    "version": "1.0.0",
 
     "license": "GPL-3.0-or-later",
     "authors": [
